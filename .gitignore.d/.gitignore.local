@@ -1,0 +1,6 @@
+#
+#    LOCAL
+#
+.tmp/
+tmp/
+# .gitignore.d/
